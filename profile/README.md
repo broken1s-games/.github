@@ -3,8 +3,8 @@
 OG broken ones, now "game devs".
 
 ***DEVS:***
-- Wate
-- Antsa
+- Wate: https://github.com/waltterir
+- Antsa: https://github.com/likantsa
 <!--
 
 **Here are some ideas to get you started:**
