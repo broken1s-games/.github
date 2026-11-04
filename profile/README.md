@@ -1,6 +1,8 @@
-## Haya 👋
+Haya 👋
 
-OG broken ones, now "game devs".
+The OG broken ones — now game devs.
+
+VÄKI is in the making: a game rooted in Finnish folklore. You play as a tietäjä, a seer, on a journey to discover what is disturbing the väki — the spirit-force that dwells in nature, places, and the dead.
 
 ***DEVS:***
 - Wate: https://github.com/waltterir
