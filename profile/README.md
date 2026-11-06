@@ -7,7 +7,9 @@ VÄKI is in the making: a game rooted in Finnish folklore. You play as a Tietäj
 ***DEVS:***
 - Wate: https://github.com/waltterir
 - Antsa: https://github.com/likantsa
-- Nakki: Lore master
+
+  ***LORE MASTER:***
+- Nakki
 <!--
 
 **Here are some ideas to get you started:**
